@@ -1,4 +1,4 @@
-# diabetes_raman
+# Raman spectroscopy diabetes detection
  
  
 This program uses a neural network to predict if a patient has diabetes. The dataset contains raman spectroscopy measurements taken from four locations on the patients skin: left earlobe, left inner arm, left thumbnail, and the left median cubital vein. 
